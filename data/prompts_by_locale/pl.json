@@ -1,0 +1,1912 @@
+[
+  {
+    "id": "ur_001",
+    "sort_order": 80,
+    "title": "Elegancka prania scena",
+    "description": "Scena wideo w temacie: Elegancka prania scena.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: Elegancka prania scena.",
+    "category": "Ultrarealistyczne generowanie wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/1",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ur_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/1",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ur_002",
+    "sort_order": 79,
+    "title": "interaktywna malarska postać",
+    "description": "Scena wideo w temacie: interaktywna malarska postać.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: interaktywna malarska postać.",
+    "category": "Ultrarealistyczne generowanie wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/2",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ur_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/2",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ur_003",
+    "sort_order": 42,
+    "title": "wiktoriańska uliczna scena",
+    "description": "Scena wideo w temacie: wiktoriańska uliczna scena.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: wiktoriańska uliczna scena.",
+    "category": "Ultrarealistyczne generowanie wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/3",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ur_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/3",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ur_004",
+    "sort_order": 8,
+    "title": "pościg scena with przeszkodami",
+    "description": "Scena wideo w temacie: pościg scena with przeszkodami.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: pościg scena with przeszkodami.",
+    "category": "Ultrarealistyczne generowanie wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/4",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ur_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/4",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_018",
+    "sort_order": 67,
+    "title": "Will Smith Eating Spaghetti",
+    "description": "Will Smith eating spaghetti in a modern home kitchen.",
+    "prompt": "Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.",
+    "category": "Ultrarealistyczne generowanie wideo",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4",
+    "author_name": "levelsio (@levelsio)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/levelsio/status/2021403820702552331",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_018",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/67",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "cs_001",
+    "sort_order": 71,
+    "title": "po pracy powrót do domu",
+    "description": "Scena wideo w temacie: po pracy powrót do domu.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: po pracy powrót do domu.",
+    "category": "Spójność postaci i scen",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/5",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "cs_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/5",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "cs_002",
+    "sort_order": 6,
+    "title": "operowa scena transformacja",
+    "description": "Scena wideo w temacie: operowa scena transformacja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: operowa scena transformacja.",
+    "category": "Spójność postaci i scen",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/6",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "cs_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/6",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "cs_003",
+    "sort_order": 54,
+    "title": "jedno ujęcie płynne przejście",
+    "description": "Scena wideo w temacie: jedno ujęcie płynne przejście.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: jedno ujęcie płynne przejście.",
+    "category": "Spójność postaci i scen",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/7",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "cs_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/7",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "cs_004",
+    "sort_order": 75,
+    "title": "magnetyczny Bow produktu prezentacja",
+    "description": "Scena wideo w temacie: magnetyczny Bow produktu prezentacja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: magnetyczny Bow produktu prezentacja.",
+    "category": "Spójność postaci i scen",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/8",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "cs_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/8",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "cs_005",
+    "sort_order": 58,
+    "title": "luksusowa torebka reklama",
+    "description": "Scena wideo w temacie: luksusowa torebka reklama.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: luksusowa torebka reklama.",
+    "category": "Spójność postaci i scen",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/9",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "cs_005",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/9",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "cs_006",
+    "sort_order": 50,
+    "title": "horror pierwszoosobowa eksploracja",
+    "description": "Scena wideo w temacie: horror pierwszoosobowa eksploracja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: horror pierwszoosobowa eksploracja.",
+    "category": "Spójność postaci i scen",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/10",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "cs_006",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/10",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ac_001",
+    "sort_order": 43,
+    "title": "Hitchcocka zoom in windzie",
+    "description": "Scena wideo w temacie: Hitchcocka zoom in windzie.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: Hitchcocka zoom in windzie.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/11",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ac_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/11",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ac_002",
+    "sort_order": 38,
+    "title": "złożony korytarz pościg",
+    "description": "Scena wideo w temacie: złożony korytarz pościg.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: złożony korytarz pościg.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/12",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ac_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/12",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ac_003",
+    "sort_order": 37,
+    "title": "obracająca się tablet prezentacja",
+    "description": "Scena wideo w temacie: obracająca się tablet prezentacja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: obracająca się tablet prezentacja.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/13",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ac_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/13",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ac_004",
+    "sort_order": 64,
+    "title": "rytmiczny taniec push-pull",
+    "description": "Scena wideo w temacie: rytmiczny taniec push-pull.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: rytmiczny taniec push-pull.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/14",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ac_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/14",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ac_005",
+    "sort_order": 40,
+    "title": "sztuki walki walka scena",
+    "description": "Scena wideo w temacie: sztuki walki walka scena.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: sztuki walki walka scena.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/15",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ac_005",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/15",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ac_006",
+    "sort_order": 23,
+    "title": "epicka fantasy bitwa",
+    "description": "Scena wideo w temacie: epicka fantasy bitwa.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: epicka fantasy bitwa.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/16",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ac_006",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/16",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ac_007",
+    "sort_order": 28,
+    "title": "samochodowa reklama kinematografia",
+    "description": "Scena wideo w temacie: samochodowa reklama kinematografia.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: samochodowa reklama kinematografia.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/17",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ac_007",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/17",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_001",
+    "sort_order": 74,
+    "title": "1-Minute Cinematic War Video in 5 Minutes, multi-shot structure",
+    "description": "Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.",
+    "prompt": "Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4",
+    "author_name": "Min Choi (@minchoi)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/minchoi/status/2020878278475518152",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/60",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_003",
+    "sort_order": 15,
+    "title": "Aerial Shot of Burning Military Vehicle in Urban Warfare",
+    "description": "Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.",
+    "prompt": "A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4",
+    "author_name": "Carlos Santana (@DotCSV)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/DotCSV/status/2020519499082969142",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/61",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_008",
+    "sort_order": 4,
+    "title": "IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic",
+    "description": "IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.",
+    "prompt": "Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4",
+    "author_name": "John (@johnAGI168)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/johnAGI168/status/2020989515939148146",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_008",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/64",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_009",
+    "sort_order": 94,
+    "title": "Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt",
+    "description": "Intense martial arts fight between two women in modern urban environment.",
+    "prompt": "A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4",
+    "author_name": "el.cine (@EHuanglu)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/EHuanglu/status/2020828503810445785",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_009",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/65",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_022",
+    "sort_order": 11,
+    "title": "South Indian Cinema Alien Scene Generated from Single Prompt",
+    "description": "South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.",
+    "prompt": "Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4",
+    "author_name": "rohan anil (@_arohan_)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/_arohan_/status/2021369768004161783",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_022",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/69",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_024",
+    "sort_order": 84,
+    "title": "Ground Combat Shot of Soldiers Traversing Desert Terrain",
+    "description": "Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.",
+    "prompt": "Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.",
+    "category": "Zaawansowane ruchy kamery",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4",
+    "author_name": "Chetaslua (@chetaslua)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/chetaslua",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_024",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/70",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_001",
+    "sort_order": 33,
+    "title": "VR okulary uniwersum podróż",
+    "description": "Scena wideo w temacie: VR okulary uniwersum podróż.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: VR okulary uniwersum podróż.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/18",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ce_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/18",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_002",
+    "sort_order": 46,
+    "title": "modowy szybka zmiana reklama",
+    "description": "Scena wideo w temacie: modowy szybka zmiana reklama.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: modowy szybka zmiana reklama.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/19",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ce_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/19",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_003",
+    "sort_order": 13,
+    "title": "kurtka puchowa łabędź metafora",
+    "description": "Scena wideo w temacie: kurtka puchowa łabędź metafora.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: kurtka puchowa łabędź metafora.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/20",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ce_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/20",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_004",
+    "sort_order": 87,
+    "title": "tuszowa tai chi",
+    "description": "Scena wideo w temacie: tuszowa tai chi.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: tuszowa tai chi.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/21",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ce_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/21",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_005",
+    "sort_order": 7,
+    "title": "magiczna transformacja sekwencja",
+    "description": "Scena wideo w temacie: magiczna transformacja sekwencja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: magiczna transformacja sekwencja.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/22",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ce_005",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/22",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_006",
+    "sort_order": 73,
+    "title": "puzzli przejście logo",
+    "description": "Scena wideo w temacie: puzzli przejście logo.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: puzzli przejście logo.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/23",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ce_006",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/23",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_007",
+    "sort_order": 81,
+    "title": "złote cząsteczek tytułu ujawnienie",
+    "description": "Scena wideo w temacie: złote cząsteczek tytułu ujawnienie.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: złote cząsteczek tytułu ujawnienie.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/24",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ce_007",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/24",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ce_008",
+    "sort_order": 45,
+    "title": "abstrakcyjny makaron instant",
+    "description": "Scena wideo w temacie: abstrakcyjny makaron instant.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: abstrakcyjny makaron instant.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/25",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ce_008",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/25",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_004",
+    "sort_order": 14,
+    "title": "Will Smith Eating Spaghetti",
+    "description": "Will Smith eating spaghetti in a modern home kitchen.",
+    "prompt": "Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4",
+    "author_name": "levelsio (@levelsio)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/levelsio/status/2021403820702552331",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/62",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_016",
+    "sort_order": 21,
+    "title": "One Punch Man Animation Surpassing Original Quality",
+    "description": "One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.",
+    "prompt": "Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4",
+    "author_name": "Chetaslua (@chetaslua)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/chetaslua",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_016",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/66",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_021",
+    "sort_order": 12,
+    "title": "Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots",
+    "description": "Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.",
+    "prompt": "Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.",
+    "category": "Kreatywne efekty wizualne",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4",
+    "author_name": "Andrey Kurenkov (@andrey_kurenkov)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/andrey_kurenkov/status/2021435749401514131",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_021",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/68",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ne_001",
+    "sort_order": 49,
+    "title": "komiksowa paneli animacja",
+    "description": "Scena wideo w temacie: komiksowa paneli animacja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: komiksowa paneli animacja.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/26",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ne_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/26",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ne_002",
+    "sort_order": 89,
+    "title": "dzieciństwa pory roku dokument",
+    "description": "Scena wideo w temacie: dzieciństwa pory roku dokument.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: dzieciństwa pory roku dokument.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/27",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ne_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/27",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ne_003",
+    "sort_order": 32,
+    "title": "emocjonalna podróż wideo",
+    "description": "Scena wideo w temacie: emocjonalna podróż wideo.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: emocjonalna podróż wideo.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/28",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ne_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/28",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ne_004",
+    "sort_order": 36,
+    "title": "osioł motocyklowa kaskreklamaerska reklama",
+    "description": "Scena wideo w temacie: osioł motocyklowa kaskreklamaerska reklama.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: osioł motocyklowa kaskreklamaerska reklama.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/29",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ne_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/29",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ne_005",
+    "sort_order": 20,
+    "title": "fitness motywacja reklama",
+    "description": "Scena wideo w temacie: fitness motywacja reklama.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: fitness motywacja reklama.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/30",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ne_005",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/30",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ne_006",
+    "sort_order": 34,
+    "title": "kawowa poranna kampania",
+    "description": "Scena wideo w temacie: kawowa poranna kampania.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: kawowa poranna kampania.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/31",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ne_006",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/31",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ne_007",
+    "sort_order": 63,
+    "title": "słonecznikowa deskorolkowa historia",
+    "description": "Scena wideo w temacie: słonecznikowa deskorolkowa historia.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: słonecznikowa deskorolkowa historia.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/32",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ne_007",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/32",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "tw_007",
+    "sort_order": 66,
+    "title": "Quick Test of Female Controlling Plane in Complex Action Scene",
+    "description": "Woman suddenly realizes pilot has disappeared and controls the plane in crisis.",
+    "prompt": "Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.",
+    "category": "Rozwój i rozszerzanie historii",
+    "video_url": "https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4",
+    "author_name": "Janek Mann (@janekm)",
+    "source_platform": "twitter",
+    "source_link": "https://x.com/janekm/status/2020388244802740728",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "tw_007",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/63",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_001",
+    "sort_order": 26,
+    "title": "rybie oko końska komedia",
+    "description": "Scena wideo w temacie: rybie oko końska komedia.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: rybie oko końska komedia.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/33",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "av_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/33",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_002",
+    "sort_order": 22,
+    "title": "biurowa budynku dokument",
+    "description": "Scena wideo w temacie: biurowa budynku dokument.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: biurowa budynku dokument.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/34",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/34",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_003",
+    "sort_order": 3,
+    "title": "kot i pies pojedynek roastowy",
+    "description": "Scena wideo w temacie: kot i pies pojedynek roastowy.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: kot i pies pojedynek roastowy.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/35",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/35",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_004",
+    "sort_order": 48,
+    "title": "chińska operowa występ",
+    "description": "Scena wideo w temacie: chińska operowa występ.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: chińska operowa występ.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/36",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/36",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_005",
+    "sort_order": 78,
+    "title": "Cinematic podróż drogowa MV",
+    "description": "Scena wideo w temacie: Cinematic podróż drogowa MV.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: Cinematic podróż drogowa MV.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/37",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_005",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/37",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_006",
+    "sort_order": 29,
+    "title": "wielokulturowa rodzinna uroczystość",
+    "description": "Scena wideo w temacie: wielokulturowa rodzinna uroczystość.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: wielokulturowa rodzinna uroczystość.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/38",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_006",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/38",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_007",
+    "sort_order": 31,
+    "title": "taktyczny zespół hiszpańska odprawa",
+    "description": "Scena wideo w temacie: taktyczny zespół hiszpańska odprawa.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: taktyczny zespół hiszpańska odprawa.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/39",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_007",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/39",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_008",
+    "sort_order": 30,
+    "title": "poranna pobudka dialog",
+    "description": "Scena wideo w temacie: poranna pobudka dialog.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: poranna pobudka dialog.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/40",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_008",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/40",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_009",
+    "sort_order": 53,
+    "title": "syczuanska Dialect bubble tea",
+    "description": "Scena wideo w temacie: syczuanska Dialect bubble tea.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: syczuanska Dialect bubble tea.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/41",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_009",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/41",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "av_010",
+    "sort_order": 69,
+    "title": "Wędrówka na Zachód opowieść",
+    "description": "Scena wideo w temacie: Wędrówka na Zachód opowieść.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: Wędrówka na Zachód opowieść.",
+    "category": "Audio i synteza głosu",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/42",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "av_010",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/42",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ot_001",
+    "sort_order": 93,
+    "title": "parkourowa pościg sekwencja",
+    "description": "Scena wideo w temacie: parkourowa pościg sekwencja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: parkourowa pościg sekwencja.",
+    "category": "Jednoujęciowa kinematografia",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/43",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ot_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/43",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ot_002",
+    "sort_order": 76,
+    "title": "samolotowego okna lodowe marzenie",
+    "description": "Scena wideo w temacie: samolotowego okna lodowe marzenie.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: samolotowego okna lodowe marzenie.",
+    "category": "Jednoujęciowa kinematografia",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/44",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ot_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/44",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ot_003",
+    "sort_order": 70,
+    "title": "szpiegowski thriller ogon",
+    "description": "Scena wideo w temacie: szpiegowski thriller ogon.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: szpiegowski thriller ogon.",
+    "category": "Jednoujęciowa kinematografia",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/45",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ot_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/45",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ot_004",
+    "sort_order": 68,
+    "title": "przytulna chatka czas na herbatę",
+    "description": "Scena wideo w temacie: przytulna chatka czas na herbatę.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: przytulna chatka czas na herbatę.",
+    "category": "Jednoujęciowa kinematografia",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/46",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ot_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/46",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ot_005",
+    "sort_order": 44,
+    "title": "kolejka górska POV",
+    "description": "Scena wideo w temacie: kolejka górska POV.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: kolejka górska POV.",
+    "category": "Jednoujęciowa kinematografia",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/47",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ot_005",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/47",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ve_001",
+    "sort_order": 52,
+    "title": "Titanic mroczny zwrot",
+    "description": "Scena wideo w temacie: Titanic mroczny zwrot.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: Titanic mroczny zwrot.",
+    "category": "Edycja i remiks wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/48",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ve_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/48",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ve_002",
+    "sort_order": 5,
+    "title": "poważny biznesowy to przekąska ukłreklama",
+    "description": "Scena wideo w temacie: poważny biznesowy to przekąska ukłreklama.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: poważny biznesowy to przekąska ukłreklama.",
+    "category": "Edycja i remiks wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/49",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ve_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/49",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ve_003",
+    "sort_order": 86,
+    "title": "zespołu wokalista płeć zamiana",
+    "description": "Scena wideo w temacie: zespołu wokalista płeć zamiana.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: zespołu wokalista płeć zamiana.",
+    "category": "Edycja i remiks wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/50",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ve_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/50",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ve_004",
+    "sort_order": 88,
+    "title": "rekin fotobomba",
+    "description": "Scena wideo w temacie: rekin fotobomba.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: rekin fotobomba.",
+    "category": "Edycja i remiks wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/51",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ve_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/51",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ve_005",
+    "sort_order": 16,
+    "title": "smażony kurczak marki integracja",
+    "description": "Scena wideo w temacie: smażony kurczak marki integracja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: smażony kurczak marki integracja.",
+    "category": "Edycja i remiks wideo",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/52",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ve_005",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/52",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ms_001",
+    "sort_order": 65,
+    "title": "modowy drop beatu",
+    "description": "Scena wideo w temacie: modowy drop beatu.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: modowy drop beatu.",
+    "category": "Synchronizacja muzyki",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/53",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ms_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/53",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ms_002",
+    "sort_order": 83,
+    "title": "dynamiczny portret beat synchronizacja",
+    "description": "Scena wideo w temacie: dynamiczny portret beat synchronizacja.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: dynamiczny portret beat synchronizacja.",
+    "category": "Synchronizacja muzyki",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/54",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ms_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/54",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ms_003",
+    "sort_order": 85,
+    "title": "krajobrazowa przejście muzyka wideo",
+    "description": "Scena wideo w temacie: krajobrazowa przejście muzyka wideo.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: krajobrazowa przejście muzyka wideo.",
+    "category": "Synchronizacja muzyki",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/55",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ms_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/55",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ms_004",
+    "sort_order": 39,
+    "title": "anime szachowa bitwa historiaboard",
+    "description": "Scena wideo w temacie: anime szachowa bitwa historiaboard.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: anime szachowa bitwa historiaboard.",
+    "category": "Synchronizacja muzyki",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/56",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ms_004",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/56",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ep_001",
+    "sort_order": 82,
+    "title": "lustrze załamanie",
+    "description": "Scena wideo w temacie: lustrze załamanie.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: lustrze załamanie.",
+    "category": "Ekspresja emocjonalna",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/57",
+    "language": "pl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "ep_001",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/57",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ep_002",
+    "sort_order": 56,
+    "title": "gotowanie kontrast komedia",
+    "description": "Scena wideo w temacie: gotowanie kontrast komedia.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: gotowanie kontrast komedia.",
+    "category": "Ekspresja emocjonalna",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/58",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ep_002",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/58",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "ep_003",
+    "sort_order": 9,
+    "title": "dramattic ryk zbliżenie",
+    "description": "Scena wideo w temacie: dramattic ryk zbliżenie.",
+    "prompt": "Wygeneruj scenę wideo: Scena wideo w temacie: dramattic ryk zbliżenie.",
+    "category": "Ekspresja emocjonalna",
+    "video_url": "https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4",
+    "author_name": "AtlasCloud",
+    "source_platform": "official",
+    "source_link": "https://www.atlascloud.ai/pl/seedance-2-prompt/59",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "ep_003",
+      "atlas_prompt_url": "https://www.atlascloud.ai/pl/seedance-2-prompt/59",
+      "atlas_prompt_library_url": "https://www.atlascloud.ai/pl/seedance-2-prompt",
+      "model_url": "https://www.atlascloud.ai/pl/models/bytedance/seedance-2.0/text-to-video?ref=JPM683"
+    }
+  },
+  {
+    "id": "x_2064611393580757271",
+    "sort_order": 55,
+    "title": "Żołnierz spoglądający na flotę",
+    "description": "Żołnierz stoi z tyłu wojskowego samolotu, spoglądając na rozległą flotę statków na oceanie poniżej.",
+    "prompt": "a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4",
+    "author_name": "Global Frontline News",
+    "source_platform": "x",
+    "source_link": "https://x.com/OmeyLad23/status/2064611393580757271",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064611393580757271",
+      "x_author_handle": "OmeyLad23",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064608055908868501",
+    "sort_order": 51,
+    "title": "Sci-Fi Pająk Robotyczny na Bieżni",
+    "description": "Szybka sekwencja wideo sci-fi przedstawiająca blondynkę w dresie, której na nadgarstku rozrasta się robotyczny pająk, podczas gdy uczniowie uciekają.",
+    "prompt": "A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4",
+    "author_name": "Avelyrah",
+    "source_platform": "x",
+    "source_link": "https://x.com/AvelyrahnAI/status/2064608055908868501",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064608055908868501",
+      "x_author_handle": "AvelyrahnAI",
+      "confidence": "medium",
+      "needs_preview": true
+    }
+  },
+  {
+    "id": "x_2064608020701532188",
+    "sort_order": 72,
+    "title": "Przygoda na Słonecznej Ścieżce",
+    "description": "Młoda anime dziewczyna z rogami stoi na brukowanej ścieżce skąpanej w złotym świetle słonecznym.",
+    "prompt": "anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "💫Wigglenator💫",
+    "source_platform": "x",
+    "source_link": "https://x.com/Wigglenatorr/status/2064608020701532188",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064608020701532188",
+      "x_author_handle": "Wigglenatorr",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064606613865103832",
+    "sort_order": 10,
+    "title": "Moc Kawy",
+    "description": "Kobieta emanuje energią z kawy, otoczona dynamicznymi scenami biurowymi.",
+    "prompt": "a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4",
+    "author_name": "minchinEdits",
+    "source_platform": "x",
+    "source_link": "https://x.com/minchinEdits/status/2064606613865103832",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064606613865103832",
+      "x_author_handle": "minchinEdits",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064606091951190378",
+    "sort_order": 77,
+    "title": "Żołnierz spoglądający na flotę",
+    "description": "Żołnierz stoi z tyłu wojskowego samolotu, spoglądając na ogromną flotę morską na otwartym morzu.",
+    "prompt": "a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4",
+    "author_name": "Global Frontline News",
+    "source_platform": "x",
+    "source_link": "https://x.com/OmeyLad23/status/2064606091951190378",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064606091951190378",
+      "x_author_handle": "OmeyLad23",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064606040797171839",
+    "sort_order": 2,
+    "title": "Mężczyzna w Deszczowej Masce",
+    "description": "Zbliżenie na mężczyznę w futurystycznej masce stojącego w deszczu z ponurym wyrazem twarzy.",
+    "prompt": "close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4",
+    "author_name": "Xfeed24",
+    "source_platform": "x",
+    "source_link": "https://x.com/XfeedZ24/status/2064606040797171839",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064606040797171839",
+      "x_author_handle": "XfeedZ24",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064601178902814752",
+    "sort_order": 18,
+    "title": "Projekt postaci kociaka",
+    "description": "Uroczy pomarańczowy kotek siedzi na drewnianym stole w nasłonecznionym salonie, a poniżej wyświetlane są szczegółowe karty projektowe postaci przedstawiające jego modele 3D, wyraz twarzy i paletę kolorów.",
+    "prompt": "a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4",
+    "author_name": "GPTProto Official",
+    "source_platform": "x",
+    "source_link": "https://x.com/gptproto/status/2064601178902814752",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064601178902814752",
+      "x_author_handle": "gptproto",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064598264528470051",
+    "sort_order": 57,
+    "title": "Lot Quidditcha w Hogwarcie",
+    "description": "Pierwszoosobowa perspektywa lotu na miotle nad boiskiem do quidditcha w Hogwarcie, przechodząca w rozległy widok z lotu ptaka na zamek o zachodzie słońca.",
+    "prompt": "first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4",
+    "author_name": "Cyber AI Creator 🎨",
+    "source_platform": "x",
+    "source_link": "https://x.com/noman23761/status/2064598264528470051",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064598264528470051",
+      "x_author_handle": "noman23761",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064597123795173495",
+    "sort_order": 59,
+    "title": "Sztuka koncepcyjna Zamarzniętej Wojowniczki",
+    "description": "Ilustracja koncepcyjna przedstawiająca wojowniczkę i lodowego golema w zaśnieżonym środowisku, ze szczegółowymi projektami postaci.",
+    "prompt": "concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4",
+    "author_name": "Cyber AI Creator 🎨",
+    "source_platform": "x",
+    "source_link": "https://x.com/noman23761/status/2064597123795173495",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064597123795173495",
+      "x_author_handle": "noman23761",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064595921443139684",
+    "sort_order": 17,
+    "title": "Mroczna Fantastyczna Bitwa z Efektami Praktycznymi",
+    "description": "Prompt do wygenerowania 15-sekundowej sceny bitwy w stylu mrocznej fantastyki z użyciem Seedance 2.0, o niskiej ostrości i estetyce efektów praktycznych.",
+    "prompt": "15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4",
+    "author_name": "Build Fast with AI",
+    "source_platform": "x",
+    "source_link": "https://x.com/BuildFastWithAI/status/2064595921443139684",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064595921443139684",
+      "x_author_handle": "BuildFastWithAI",
+      "confidence": "low",
+      "needs_preview": true
+    }
+  },
+  {
+    "id": "x_2064595805906817115",
+    "sort_order": 41,
+    "title": "Filmowa walka byków w złotej godzinie",
+    "description": "Fotorealistyczny prompt wideo do ciągłej, 15-sekundowej sceny filmowej rozgrywającej się na arenie walk byków podczas złotej godziny.",
+    "prompt": "15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4",
+    "author_name": "WasifAI",
+    "source_platform": "x",
+    "source_link": "https://x.com/doctorwasif/status/2064595805906817115",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064595805906817115",
+      "x_author_handle": "doctorwasif",
+      "confidence": "medium",
+      "needs_preview": true
+    }
+  },
+  {
+    "id": "x_2064595569763639713",
+    "sort_order": 90,
+    "title": "Punkowy salon rockowy",
+    "description": "Swobodne ujęcie pięciu kobiet w alternatywnych stylach mody, relaksujących się w bohemianowskim mieszkaniu, podczas gdy biały kot idzie w ich stronę.",
+    "prompt": "a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4",
+    "author_name": "Cyber AI Creator 🎨",
+    "source_platform": "x",
+    "source_link": "https://x.com/noman23761/status/2064595569763639713",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064595569763639713",
+      "x_author_handle": "noman23761",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064593399882432615",
+    "sort_order": 24,
+    "title": "Wir nad Miastem",
+    "description": "Mężczyzna spogląda w górę na świecący niebieski wir zawieszony nad futurystyczną metropolią nocą.",
+    "prompt": "a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14",
+    "author_name": "Pixmax",
+    "source_platform": "x",
+    "source_link": "https://x.com/Pixmax_ai/status/2064593399882432615",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064593399882432615",
+      "x_author_handle": "Pixmax_ai",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064592964366585994",
+    "sort_order": 60,
+    "title": "Spacer po Zabytkowej Ulicy",
+    "description": "Mężczyzna idzie w dół tętniącej życiem zabytkowej ulicy z tramwajem w tle, uchwycony w czerni i bieli z filmowymi detalami.",
+    "prompt": "black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4",
+    "author_name": "EdenWood",
+    "source_platform": "x",
+    "source_link": "https://x.com/EdenWood62747/status/2064592964366585994",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064592964366585994",
+      "x_author_handle": "EdenWood62747",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064592826290336125",
+    "sort_order": 25,
+    "title": "Naruto Live Spektakl",
+    "description": "Na żywo występ sceniczny z Naruto i Sasuke w ich ikonicznych kostiumach, z publicznością uwieczniającą moment na swoich telefonach.",
+    "prompt": "live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4",
+    "author_name": "AIAI.COM",
+    "source_platform": "x",
+    "source_link": "https://x.com/Aiaicom09/status/2064592826290336125",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064592826290336125",
+      "x_author_handle": "Aiaicom09",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064592792354275730",
+    "sort_order": 62,
+    "title": "Przegląd strony GlobalGPT",
+    "description": "zrzut ekranu strony głównej GlobalGPT z żywymi kolorami tła i opcjami narzędzi AI",
+    "prompt": "a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area",
+    "category": "Twitter Community",
+    "video_url": "https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14",
+    "author_name": "Rasel Hosen",
+    "source_platform": "x",
+    "source_link": "https://x.com/details_with_ai/status/2064592792354275730",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064592792354275730",
+      "x_author_handle": "details_with_ai",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064591659115905203",
+    "sort_order": 1,
+    "title": "Reklama pasków neuro-nawadniających Veloce-X",
+    "description": "Prompt do stworzenia 15-sekundowej, ultra-realistycznej, szybkiej i kinematograficznej reklamy produktu neuro-nawadniającego.",
+    "prompt": "Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "Gilbert Odera | Your AI Plug🇰🇪",
+    "source_platform": "x",
+    "source_link": "https://x.com/yourPlugAI/status/2064591659115905203",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064591659115905203",
+      "x_author_handle": "yourPlugAI",
+      "confidence": "medium",
+      "needs_preview": true
+    }
+  },
+  {
+    "id": "x_2064591627214356928",
+    "sort_order": 61,
+    "title": "Prezentacja na temat renderowania 3D",
+    "description": "Prelegent wskazuje na ekran wyświetlający renderowane w 3D sfery podczas warsztatu.",
+    "prompt": "a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "CloudwiseAI",
+    "source_platform": "x",
+    "source_link": "https://x.com/cloudwiseAI2026/status/2064591627214356928",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064591627214356928",
+      "x_author_handle": "cloudwiseAI2026",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064591614627189158",
+    "sort_order": 92,
+    "title": "Pokaz prezentacji AI",
+    "description": "Prelegent przemawia do publiczności, prezentując na ekranie cyfrową animację refleksyjnych sfer.",
+    "prompt": "a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "CloudwiseAI",
+    "source_platform": "x",
+    "source_link": "https://x.com/cloudwiseAI2026/status/2064591614627189158",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064591614627189158",
+      "x_author_handle": "cloudwiseAI2026",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064591595991969879",
+    "sort_order": 19,
+    "title": "Kobieta na konferencji AI",
+    "description": "Kobieta przemawia do mikrofonu przed ekranem pokazującym stronę konferencji GenAI o tematyce piłkarskiej.",
+    "prompt": "a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "CloudwiseAI",
+    "source_platform": "x",
+    "source_link": "https://x.com/cloudwiseAI2026/status/2064591595991969879",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064591595991969879",
+      "x_author_handle": "cloudwiseAI2026",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true
+  },
+  {
+    "id": "x_2064989700738412551",
+    "sort_order": 35,
+    "title": "Kinematograficzny film piłkarski z ultra-realistycznymi zawodnikami",
+    "description": "Kinematograficzny film mieszany, przedstawiający ultra-realistycznych ludzkich piłkarzy zintegrowanych z realistycznym środowiskiem stadionu.",
+    "prompt": "Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4",
+    "author_name": "auqib",
+    "source_platform": "x",
+    "source_link": "https://x.com/auqibhabib/status/2064989700738412551",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064989700738412551",
+      "x_author_handle": "auqibhabib",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2/x_2064989700738412551.mp4"
+    }
+  },
+  {
+    "id": "x_2064988432590356506",
+    "sort_order": 27,
+    "title": "Eksploracja platformy AI GlobalGPT",
+    "description": "Ten film przedstawia szczegółowy zapis ekranu, prezentujący różnorodne modele i narzędzia AI platformy GlobalGPT do generowania obrazów, wideo i dźwięku.",
+    "prompt": "A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4",
+    "author_name": "Choya",
+    "source_platform": "x",
+    "source_link": "https://x.com/choyamymuna/status/2064988432590356506",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064988432590356506",
+      "x_author_handle": "choyamymuna",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2/x_2064988432590356506.mp4"
+    }
+  },
+  {
+    "id": "x_2064988239623225619",
+    "sort_order": 91,
+    "title": "nurek przybija piątkę na morzu",
+    "description": "Nurek na łodzi przybija piątkę innemu nurkowi na otwartym oceanie pod jasnym niebem.",
+    "prompt": "first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4",
+    "author_name": "Ranveer Singh Sisodia",
+    "source_platform": "x",
+    "source_link": "https://x.com/sphereofai/status/2064988239623225619",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064988239623225619",
+      "x_author_handle": "sphereofai",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "reverse_engineered": true,
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2/x_2064988239623225619.mp4"
+    }
+  },
+  {
+    "id": "x_2064985164116119665",
+    "sort_order": 47,
+    "title": "Urokliwa animacja baśni w akwareli",
+    "description": "15-sekundowe, ciągłe ujęcie bez cięć ani przejść, utrzymane w stylu kapryśnej, ręcznie malowanej akwarelowej i atramentowej animacji baśniowej.",
+    "prompt": "15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical",
+    "category": "Twitter Community",
+    "video_url": "",
+    "author_name": "OscarAI",
+    "source_platform": "x",
+    "source_link": "https://x.com/Artedeingenio/status/2064985164116119665",
+    "language": "pl",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2064985164116119665",
+      "x_author_handle": "Artedeingenio",
+      "confidence": "medium",
+      "needs_preview": true
+    }
+  }
+]

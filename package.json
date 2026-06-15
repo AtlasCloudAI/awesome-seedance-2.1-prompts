@@ -1,0 +1,17 @@
+{
+  "name": "awesome-seedance-2.1-prompts",
+  "version": "1.0.0",
+  "description": "Curated collection of Seedance 2.1 prompts sourced from homepage-v2",
+  "type": "module",
+  "scripts": {
+    "sync": "tsx scripts/sync-homepage-data.ts",
+    "generate": "tsx scripts/generate-readmes.ts",
+    "build-all": "npm run sync && npm run generate"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "npm@10.8.2"
+}
