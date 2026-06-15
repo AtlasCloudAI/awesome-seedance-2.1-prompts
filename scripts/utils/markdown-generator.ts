@@ -99,7 +99,7 @@ function renderLanguageNavigation(currentLocale: string): string {
     const isCurrent = lang.code === currentLocale;
     const color = isCurrent ? "brightgreen" : "lightgrey";
     const text = isCurrent ? t("current", currentLocale) : t("view", currentLocale);
-    return `[![${lang.name}](https://img.shields.io/badge/${encodeURIComponent(lang.name)}-${encodeURIComponent(text)}-${color})](${lang.readmeFileName})`;
+    return `[![${lang.name}](https://img.shields.io/badge/${encodeURIComponent(lang.name)}-${encodeURIComponent(text)}-${color})](${REPO_URL}/blob/main/${lang.readmeFileName})`;
   }).join(" ");
 
   return `${badges}\n\n---\n`;

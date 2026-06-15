@@ -13,7 +13,9 @@ async function main() {
   for (const lang of SUPPORTED_LANGUAGES) {
     const prompts = await loadLocalePrompts(lang.localeFileName);
     const markdown = generateMarkdown(sortPrompts(prompts), lang.code);
-    await fs.writeFile(path.join(root, lang.readmeFileName), markdown, "utf8");
+    const outPath = path.join(root, lang.readmeFileName);
+    await fs.mkdir(path.dirname(outPath), { recursive: true });
+    await fs.writeFile(outPath, markdown, "utf8");
     console.log(`Generated ${lang.readmeFileName}`);
   }
 }
